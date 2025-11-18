@@ -45,13 +45,12 @@ Streamlit을 기반으로 3개의 주요 메뉴를 가진 대시보드를 구현
 
 프로젝트의 주요 기능을 시연하는 영상입니다.
 
-- **[여기를 클릭하여 시연 동영상 보기 (YouTube 링크)]**
-- `[https://www.youtube.com/watch?v=... (여기에 실제 유튜브 링크를 넣어주세요)]`
+- **[여기를 클릭하여 시연 동영상 보기](https://www.youtube.com/watch?v=OWlNUFQ5CJQ)**
 
 ## 6. 👥 팀원 소개
 
-- **정현진 ([@junghj0724])**: [역할: 프로젝트 리더, Streamlit 앱 개발]
-- **정준혁 ([@Wnsgur7318])**: [역할: 데이터 전처리, Readme 작성]
+- **[정현진](https://github.com/junghj0724)**: [역할: 프로젝트 리더, Streamlit 앱 개발]
+- **[정준혁](https://github.com/Wnsgur7318)**: [역할: 데이터 전처리, Readme 작성]
 
 
 ## 7. 코드
